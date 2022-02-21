@@ -1,0 +1,5 @@
+dist
+pyproject.toml
+setup.cfg
+.idea
+src/shahr2.pymailsender.egg-info
